@@ -3,6 +3,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pixelkat5&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pixelkat5&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pixelkat5&theme=aura)
-<img src="https://https://github-readme-stats-lps1-pixelkat5s-projects.vercel.app//api?username=Pixelkat5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://https://github-readme-stats-lps1-pixelkat5s-projects.vercel.app/api?username=Pixelkat5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Pixelkat5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
