@@ -7,4 +7,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pixelkat5&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pixelkat5&theme=aura_dark&utcOffset=8)
 <!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/pixelkat5/langs)](https://githubtrends.io)-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelkat5&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
